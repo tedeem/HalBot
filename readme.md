@@ -14,8 +14,7 @@ Credits:
 - HAL9000 reference sound waves - downloaded from https://2001archive.org/sounds/ - note that I modified these to work with the project's StyleTTS2
 - Due to potential copyright issues, I am not including the sound files. The one I used was number 8 - human error soundbite. If you need help with this - shoot me an email. 
 - HAL9000 weights and config - downloaded from https://github.com/tizerk/hal9000
-  - Tizerk's repo was the inspiration for my own implementation. Without his work, I wouldn't have the HAL 9000 voice model weights
-  - to work with for StyleTTS2. And his HAL 9000 AI Bot is way better and more powerful than mine... check him out!
+  - Tizerk's repo was the inspiration for my own implementation. Without his work, I wouldn't have the HAL 9000 voice model weights to work with for StyleTTS2. And his HAL 9000 AI Bot is way better and more powerful than mine... check him out!
   - His files hal9000.pth and config.yml are owned by him and governed by his licenses that can be found in his repo. I am not including them in my repo - they are his property.
 
 ---
